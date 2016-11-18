@@ -1,0 +1,32 @@
+.jumbotron,
+.footer {
+    background-color: green;
+    text-align: center;
+    color: yellow;
+}
+
+.btn {
+    background-color: red;
+    color: yellow;
+}
+
+.list-group-item-success {
+    background-color: yellow;
+    color: red;
+}
+
+.list-group-item-info {
+    background-color: red;
+}
+
+.list-group-item-warning {
+    background-color: yellow;
+}
+
+.list-group-item-danger {
+    background-color: red;
+}
+
+list-group-item-success: hover {
+    background-color: green;
+}
